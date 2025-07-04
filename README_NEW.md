@@ -2,6 +2,8 @@
 
 Transform your video frames into professional Spielberg-style critiques using AI analysis.
 
+https://youtu.be/2ig7244Mixs
+
 ## 🚀 Quick Start (3 Steps)
 
 1. **Activate Environment:**
