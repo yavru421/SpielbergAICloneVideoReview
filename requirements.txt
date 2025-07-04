@@ -1,0 +1,7 @@
+# LlamaForge IDE - Core Requirements
+# Essential dependencies for running the IDE
+
+llama-api-client>=0.1.2
+PyQt6
+requests>=2.25.0
+python-dateutil>=2.8.0
