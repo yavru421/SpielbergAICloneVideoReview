@@ -1,7 +1,11 @@
 
 ![0001](https://github.com/user-attachments/assets/1335a238-d146-45b8-9aa7-47cd54c2b0bf)
-https://youtu.be/JqGGlvUs6BE
+
 # 🎬 Video Critique Tool
+
+Video of the Review- read aloud
+
+https://youtu.be/JqGGlvUs6BE
 
 Transform your video frames into professional Spielberg-style critiques using AI analysis.
 
